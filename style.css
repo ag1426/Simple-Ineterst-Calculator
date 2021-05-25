@@ -51,5 +51,6 @@ button{
     text-align: center;
 }
 #result{
-     text-align: left;
+     width: 300px;
+     left: 5px;
 }
